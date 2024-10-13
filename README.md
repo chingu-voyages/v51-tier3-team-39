@@ -1,39 +1,38 @@
-# voyage-tasks
-
-Your project's `readme` is as important to success as your code. For 
-this reason you should put as much care into its creation and maintenance
-as you would any other component of the application.
-
-If you are unsure of what should go into the `readme` let this article,
-written by an experienced Chingu, be your starting point - 
-[Keys to a well written README](https://tinyurl.com/yk3wubft).
-
-And before we go there's "one more thing"! Once you decide what to include
-in your `readme` feel free to replace the text we've provided here.
-
-> Own it & Make it your Own!
-
-## Team Documents
-
-You may find these helpful as you work together to organize your project.
-
-- [Team Project Ideas](./docs/team_project_ideas.md)
-- [Team Decision Log](./docs/team_decision_log.md)
-
-Meeting Agenda templates (located in the `/docs` directory in this repo):
-
-- Meeting - Voyage Kickoff --> ./docs/meeting-voyage_kickoff.docx
-- Meeting - App Vision & Feature Planning --> ./docs/meeting-vision_and_feature_planning.docx
-- Meeting - Sprint Retrospective, Review, and Planning --> ./docs/meeting-sprint_retrospective_review_and_planning.docx
-- Meeting - Sprint Open Topic Session --> ./docs/meeting-sprint_open_topic_session.docx
-
-## Our Team
-
-Everyone on your team should add their name along with a link to their GitHub
-& optionally their LinkedIn profiles below. Do this in Sprint #1 to validate
-your repo access and to practice PR'ing with your team *before* you start
-coding!
-
+Authors:
 - Marlissa Conroy: [GitHub](https://github.com/RinoaHime) / [LinkedIn](https://www.linkedin.com/in/marlissa1111/)
 - Miriam Mesghenna: [GitHub](https://github.com/mmes) / [LinkedIn](https://linkedin.com/in/miriam-mesghenna1)
-- Araba Addaquay: [GitHub](https://github.com/Araba-bot) / [LinkedIn](https://www.linkedin.com/in/arabaaddaquay/)
+- Araba Addaquay: [GitHub](https://github.com/Araba-bot) / [LinkedIn](https://www.linkedin.com/in/arabaaddaquay)
+
+Movie Reviews Analysis Project
+
+Overview
+
+This project analyzes three datasets: movies, critic reviews, and user reviews. It covers data cleaning, analysis, visualization, linear regression, and NLP techniques to explore themes in movie reviews.
+
+Features
+
+	•	Data Cleaning: Standardized scores and runtime conversion.
+	•	Data Analysis: Identified top 100 movies by different scores.
+	•	Linear Regression: Predicted audience scores based on features.
+	•	NLP: Extracted themes from reviews.
+
+Installation
+
+	1.	Clone the repository.
+	2.	Install dependencies
+ 	3.      Datasets taken from Kaggle, found here: https://www.kaggle.com/datasets/bwandowando/rotten-tomatoes-9800-movie-critic-and-user-reviews
+	3.	Run jupyter notebook to explore the analysis.
+
+Usage
+
+	•	Data files are loaded from Google Drive.
+	•	Execute the cells sequentially for the complete analysis.
+
+Dependencies
+
+	•	Pandas, Matplotlib, Seaborn, Scikit-learn, NLTK, Plotly, WordCloud, etc.
+
+Results
+
+	•	Word clouds visualize the main themes in reviews.
+	•	Predictive models highlight correlations between features and scores.
