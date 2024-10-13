@@ -36,6 +36,4 @@ coding!
 
 - Marlissa Conroy: [GitHub](https://github.com/RinoaHime) / [LinkedIn](https://www.linkedin.com/in/marlissa1111/)
 - Miriam Mesghenna: [GitHub](https://github.com/mmes) / [LinkedIn](https://linkedin.com/in/miriam-mesghenna1)
-
-   ...
 - Araba Addaquay: [GitHub](https://github.com/Araba-bot) / [LinkedIn](https://www.linkedin.com/in/arabaaddaquay/)
