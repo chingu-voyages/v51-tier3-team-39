@@ -38,4 +38,4 @@ coding!
 - Miriam Mesghenna: [GitHub](https://github.com/mmes) / [LinkedIn](https://linkedin.com/in/miriam-mesghenna1)
 
    ...
-- Araba Addaquay #n: [GitHub](https://github.com/Araba-bot / [LinkedIn](https://www.linkedin.com/in/arabaaddaquay/)
+- Araba Addaquay: [GitHub](https://github.com/Araba-bot) / [LinkedIn](https://www.linkedin.com/in/arabaaddaquay/)
